@@ -1,5 +1,19 @@
+*{
+    margin: 0;
+}
+
 .navbar-container{
     background-color: black;
     width: 100%;
-    height: 70px;
+    height: 75px;
+}
+.nav-Heading{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+.nav-items{
+    color: white;
+    padding-left: 20px;
+    font-size: 20px;
 }
